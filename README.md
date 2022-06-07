@@ -17,3 +17,7 @@ d
 d
 d
 dddd
+
+
+mvn archetype:generate -DgroupId=edu.escuelaing.arsw.app -DartifactId=mi-primera-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
