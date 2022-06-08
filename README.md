@@ -53,6 +53,9 @@ java -cp ".\target\classes" edu.escuelaing.arsw.app.App loc D:\Escritorio\arsw-i
 ![Imágen 1](img/1.png)
 Nota: Hay dos archivos en la carpeta Test para que haga sus pruebas
 
+3. En el siguiente diagramas de clases vemos como la clase principal App hace uso de las clases Loc, donde esta lo unico que hace es devolver uno por cada linea que encuentra mientras que la clase Phy devuelve 1 si el codigo no esta comentado o no esta dentro de comentarios de varias lineas:
+   ![Imágen 2](img/2.png)
+
 ## Built con
 
 * [Maven](https://maven.apache.org/) - Dependency Management
