@@ -61,7 +61,7 @@ Nota: Hay dos archivos en la carpeta Test para que haga sus pruebas
 
 ## Autor
 
-* **Juan Mateo Mejia Zuluaga** - *Initial work* - [VASHIGO](https://github.com/MatiwsxD)
+* **Juan Mateo Mejia Zuluaga** - *Initial work* - [MatiwsxD](https://github.com/MatiwsxD)
 
 
 ## Licencia
